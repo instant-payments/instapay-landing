@@ -1,0 +1,538 @@
+{
+  "metadata": {
+    "title": "Instagram Checkout Links - SaaS Landing Page",
+    "description": "Transform your Instagram into a shopping destination with instant checkout links",
+    "keywords": "Instagram, checkout, e-commerce, social commerce, instant payment"
+  },
+  "brand": {
+    "name": "InstaPay",
+    "tagline": "Transform your Instagram into a powerful sales channel"
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "demo": "Demo",
+    "startFreeTrial": "Start Free Trial"
+  },
+  "hero": {
+    "badge": "New: Instagram Stories Integration",
+    "title": "Transform Followers Into Paying Customers Today",
+    "subtitle": "Create instant checkout links for your Instagram posts and stories. Turn followers into customers with seamless payment integration.",
+    "cta": "Get Started Free",
+    "learnMore": "Watch Demo",
+    "disclaimer": "No credit card required • Setup in 5 minutes • Free plan available",
+    "demo": {
+      "username": "@fashionboutique",
+      "storyLabel": "Instagram Story",
+      "productTitle": "New Summer Collection ✨",
+      "price": "$89",
+      "buyButton": "Buy Now",
+      "checkoutLabel": "Quick Checkout",
+      "checkoutProgress": "Step 2 of 3: Payment Method"
+    }
+  },
+  "features": {
+    "title": "Powerful Features for Sellers",
+    "subtitle": "Everything you need to transform your Instagram into a profitable sales channel",
+    "list": {
+      "paymentProcessors": {
+        "title": "Multiple Payment Processors",
+        "description": "Support for mono, LiqPay, Portmone, Wayforpay with automatic payment verification"
+      },
+      "mobilePayments": {
+        "title": "Mobile Payment Methods",
+        "description": "Accept cards, Apple Pay, Google Pay, cash-on-delivery, and card-to-card payments seamlessly"
+      },
+      "noReceipt": {
+        "title": "No Receipt Required",
+        "description": "Automatic payment verification means no need to collect receipts from customers"
+      },
+      "cartSearch": {
+        "title": "Add and search products directly in checkout",
+        "description": "Increase your sales by giving customers the option to search and add products directly during payment."
+      },
+      "whiteLabel": {
+        "title": "White-Label Checkout",
+        "description": "Customize colors, add your avatar, and use your own subdomain for brand consistency"
+      },
+      "analytics": {
+        "title": "Order Tracking & Analytics",
+        "description": "Monitor payment status and access basic analytics to understand your sales performance"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "From product to payment in just a few clicks. Our streamlined process makes selling on Instagram effortless.",
+    "steps": {
+      "createLink": {
+        "title": "Create Checkout Link",
+        "description": "Generate a payment link for your product in seconds using our simple admin panel"
+      },
+      "share": {
+        "title": "Share in Stories/DM",
+        "description": "Post the link in your Instagram Stories or send directly to customers via DM"
+      },
+      "payment": {
+        "title": "Customer Pays",
+        "description": "Buyers enter phone, shipping address, and pay via Apple Pay, Google Pay, card, or cash-on-delivery"
+      },
+      "confirmation": {
+        "title": "Order Confirmed",
+        "description": "Automatic order confirmation and tracking with payment verification"
+      }
+    }
+  },
+  "buyerBenefits": {
+    "title": "Delightful Experience for Buyers",
+    "subtitle": "Your customers will love how easy and fast it is to complete their purchase",
+    "list": {
+      "checkout": {
+        "title": "2-3 Step Checkout",
+        "description": "Lightning-fast checkout process that reduces cart abandonment"
+      },
+      "guestFlow": {
+        "title": "Guest Flow",
+        "description": "No account required - customers can buy instantly without registration"
+      },
+      "repeatOrders": {
+        "title": "Faster Repeat Orders",
+        "description": "OTP login with saved addresses for returning customers"
+      },
+      "multiItem": {
+        "title": "Multi-Item Orders",
+        "description": "Option to add multiple products in a single order for convenience"
+      }
+    },
+    "cta": {
+      "title": "Convert More Followers into Customers",
+      "description": "With our streamlined checkout process, you'll see higher conversion rates and happier customers who come back for more.",
+      "button": "Start Converting Today"
+    }
+  },
+  "integrations": {
+    "title": "Seamless Integrations",
+    "subtitle": "Connect with your existing tools and workflows for a complete e-commerce solution",
+    "list": {
+      "keycrm": {
+        "name": "KeyCRM",
+        "description": "Sync orders and customer data automatically"
+      },
+      "excel": {
+        "name": "Excel/CSV Import",
+        "description": "Import product catalogs and export order data"
+      },
+      "novaPost": {
+        "name": "Manual Item Addition",
+        "description": "Add items manually through a simple interface without needing to set up complex integrations"
+      }
+    },
+    "cta": {
+      "text": "Need a custom integration?",
+      "button": "Contact Our Team"
+    }
+  },
+  "socialProof": {
+    "title": "Trusted by Growing Instagram Businesses",
+    "subtitle": "Join hundreds of successful sellers who've transformed their Instagram into a sales machine",
+    "testimonials": {
+      "sarah": {
+        "name": "Sarah Chen",
+        "business": "@bellastyle_boutique",
+        "text": "My sales increased 3x after switching to InstaPay. Customers love how easy it is to buy directly from my Stories!",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150",
+        "rating": "5"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "business": "@handmade_jewelry",
+        "text": "The white-label checkout perfectly matches my brand. No more losing customers to complicated payment processes.",
+        "image": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=150",
+        "rating": "5"
+      },
+      "alex": {
+        "name": "Alex Thompson",
+        "business": "@streetwear_co",
+        "text": "Setup took 2 minutes and I got my first sale within an hour. The analytics help me understand my customers better.",
+        "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150",
+        "rating": "5"
+      }
+    },
+    "brands": {
+      "text": "Powering checkout for popular Instagram shops",
+      "list": {
+        "0": "FashionForward",
+        "1": "BeautyBliss",
+        "2": "StyleHub",
+        "3": "TrendyCloset",
+        "4": "ChicBoutique",
+        "5": "GlamourStyle"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your business needs",
+    "list": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "period": "/month",
+        "description": "Perfect for getting started",
+        "features": [
+          "Up to 20 payments via links per month",
+          "1 Instagram Store",
+          "1 User/Staff Account",
+          "P2P payments",
+          "KeyCRM integration / CSV / API import",
+          "Payments via Acquirers (LiqPay, Mono)",
+          "Manual items creation",
+          "Notifications for successful payments (via email, webhook, or Telegram bot)"
+        ],
+        "cta": "Get Started"
+      },
+      "basic": {
+        "name": "Basic",
+        "badge": "Most Popular",
+        "price": "$20",
+        "period": "/month",
+        "description": "For growing businesses",
+        "features": [
+          "Up to 250 payments via links per month",
+          "5 Instagram Stores",
+          "5 Users/Staff Accounts",
+          "Support"
+        ],
+        "cta": "Start Free Trial"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$49",
+        "period": "/month",
+        "description": "For large businesses",
+        "features": [
+          "Unlimited checkout links",
+          "10 Instagram Stores",
+          "Unlimited Users/Staff Accounts",
+          "White-label (branded pages, subdomain)",
+          "Priority support"
+        ],
+        "cta": "Start Free Trial"
+      }
+    },
+    "trialNote": "Get early access and free Pro plan. No credit card required.",
+    "cta": "Get Free Pro Plan"
+  },
+  "earlyAccess": {
+    "badge": "Early Access",
+    "title": "Get Early Access",
+    "subtitle": "Be among the first to transform your Instagram into a sales channel. Join our exclusive early access program.",
+    "form": {
+      "instagramHandle": {
+        "label": "Instagram Handle",
+        "placeholder": "@yourusername",
+        "help": "Enter your Instagram username (with or without @)"
+      },
+      "submitButton": "Request Early Access",
+      "submitting": "Requesting Access...",
+      "disclaimer": "We'll notify you when early access is available. No spam, just updates."
+    },
+    "validation": {
+      "invalidHandle": "Please enter a valid Instagram username",
+      "submitError": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "You're on the list!",
+      "message": "Thank you for your interest! We'll notify you as soon as early access becomes available.",
+      "followUp": "Follow us on Instagram for updates and sneak peeks."
+    },
+    "benefits": {
+      "noCreditCard": "No credit card",
+      "quickSetup": "5 min setup",
+      "freeProPlan": "Free Pro Plan"
+    }
+  },
+  "contact": {
+    "title": "Contact Our Team",
+    "subtitle": "We'd love to hear from you. Fill out the form below and we'll get back to you shortly.",
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "john@example.com"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your integration needs..."
+      },
+      "submitButton": "Send Message",
+      "submitting": "Sending..."
+    },
+    "validation": {
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email address",
+      "messageRequired": "Please enter a message",
+      "messageTooShort": "Message must be at least 10 characters",
+      "submitError": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for contacting us. We'll get back to you within 24 hours.",
+      "closeButton": "Close"
+    }
+  },
+  "footer": {
+    "description": "Transform your Instagram into a powerful sales channel with our simple checkout links. Accept payments directly from Stories in just 2 clicks.",
+    "sections": {
+      "product": {
+        "title": "Product",
+        "features": "Features",
+        "pricing": "Pricing",
+        "integrations": "Integrations",
+        "api": "API"
+      },
+      "support": {
+        "title": "API",
+        "faq": "FAQ",
+        "helpCenter": "Help Center",
+        "contact": "Contact",
+        "status": "Status"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "license": {
+        "question": "Do I need a financial license?",
+        "answer": "No, we work through licensed acquirers like mono, LiqPay, Portmone, and Wayforpay. Money goes directly to your merchant account."
+      },
+      "setup": {
+        "question": "How quickly can I get started?",
+        "answer": "Setup takes just 5 minutes. Create your account, add your payment processor, and start creating checkout links immediately."
+      },
+      "paymentMethods": {
+        "question": "What payment methods are supported?",
+        "answer": "We support cards, Apple Pay, Google Pay, and cash-on-delivery. All major Ukrainian payment processors are integrated."
+      },
+      "customization": {
+        "question": "Can I customize the checkout page?",
+        "answer": "Yes! Pro plans include white-label checkout with custom colors, your avatar, and your own subdomain for complete brand consistency."
+      }
+    },
+    "legal": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies"
+    },
+    "copyright": "© 2025 InstaPay. All rights reserved."
+  },
+  "demo": {
+    "header": {
+      "backToLanding": "Back to Landing"
+    },
+    "tryLiveDemo": "Try Live Demo",
+    "instagram": {
+      "following": "Following",
+      "message": "Message",
+      "posts": "Posts",
+      "followers": "Followers"
+    },
+    "checkout": {
+      "steps": {
+        "cart": "Cart",
+        "shipping": "Delivery",
+        "payment": "Payment",
+        "completed": "Completed!"
+      }
+    },
+    "cart": {
+      "size": "Size",
+      "color": "Color",
+      "continueToShipping": "Continue to Shipping",
+      "backToShop": "Back to Shop",
+      "searchForMoreItems": "Search for more items",
+      "youMayAlsoLike": "You may also like",
+      "itemTotal": "Item Total",
+      "items": "Items",
+      "subtotal": "Subtotal",
+      "total": "Total"
+    },
+    "shipping": {
+      "contactInformation": "Contact Information",
+      "deliveryAddress": "Delivery Address",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter full name",
+      "phoneNumber": "Phone Number",
+      "phoneNumberPlaceholder": "+380 XX XXX XX XX",
+      "city": "City",
+      "selectCity": "Select city",
+      "novaPoshtaBranch": "Nova Poshta Branch",
+      "selectBranch": "Select branch",
+      "deliveryTime": "Delivery: 1-3 business days",
+      "continueToPayment": "Continue to Payment",
+      "backToCart": "Back to Cart",
+      "clickToAutoFill": "Click to auto-fill",
+      "validation": {
+        "fullNameRequired": "Enter full name",
+        "phoneRequired": "Enter phone number",
+        "cityRequired": "Select city",
+        "branchRequired": "Select branch",
+        "invalidPhone": "Enter valid phone number"
+      }
+    },
+    "payment": {
+      "orderSummary": "Order Summary",
+      "securePayment": "Secure Payment",
+      "cardDetails": "Card Details",
+      "cardNumber": "Card Number",
+      "cardNumberPlaceholder": "1234 5678 9012 3456",
+      "expiryDate": "MM/YY",
+      "expiryDatePlaceholder": "12/24",
+      "cvc": "CVC",
+      "cvcPlaceholder": "123",
+      "nameOnCard": "Name on Card",
+      "nameOnCardPlaceholder": "John Doe",
+      "payWithApple": "Pay with Apple Pay",
+      "payWithGoogle": "Pay with Google Pay",
+      "orPayWithCard": "Or pay with card",
+      "payAmount": "Pay ₴{amount}",
+      "backToShipping": "Back to Shipping",
+      "clickToAutoFill": "Click to auto-fill",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "total": "Total",
+      "validation": {
+        "cardNumberRequired": "Card number is required",
+        "expiryRequired": "Expiration date is required",
+        "cvcRequired": "CVC is required",
+        "nameRequired": "Name on card is required"
+      }
+    },
+    "thankYou": {
+      "orderSummary": "Order Summary",
+      "shippingAddress": "Shipping Address",
+      "paymentMethod": "Payment Method",
+      "paymentCompleted": "Payment Completed",
+      "backToShop": "Back to Shop",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "total": "Total",
+      "paymentMethods": {
+        "applePay": "🍎 Apple Pay",
+        "googlePay": "G Google Pay",
+        "card": "•••• •••• •••• {lastFour}",
+        "cardPayment": "Card Payment"
+      }
+    }
+  },
+  "slides": {
+    "instagram": {
+      "title": "Instagram Story"
+    },
+    "cart": {
+      "title": "Quick Checkout",
+      "size": "Size",
+      "color": "Color"
+    },
+    "shipping": {
+      "title": "Shipping Details",
+      "novaPoshtaIntegration": "Nova Poshta Integration",
+      "automaticBranchSelection": "Automatic branch selection"
+    },
+    "payment": {
+      "title": "Payment",
+      "securePayment": "Secure Payment",
+      "sslEncryptedPciCompliant": "SSL Encrypted & PCI Compliant",
+      "ssl": "SSL",
+      "pci": "PCI",
+      "verified": "Verified"
+    },
+    "thankYou": {
+      "orderConfirmed": "Order Confirmed!",
+      "orderId": "Order ID:",
+      "shippingTo": "Shipping to Kyiv",
+      "novaPoshtaBranch": "Nova Poshta Branch #1",
+      "total": "Total:"
+    }
+  },
+  "demoStats": {
+    "setupTime": "Setup Time",
+    "moreSales": "More Sales",
+    "autoCheckout": "Auto Checkout"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: October 8, 2025",
+    "intro": "At InstaPay, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information.",
+    "sections": {
+      "collection": {
+        "title": "1. Information We Collect",
+        "content": "We collect information you provide directly to us, including your name, email address, phone number, and payment information. We also collect information about your use of our service automatically."
+      },
+      "usage": {
+        "title": "2. How We Use Your Information",
+        "content": "We use your information to provide and improve our services, process transactions, send notifications, and ensure the security of our platform."
+      },
+      "sharing": {
+        "title": "3. Information Sharing",
+        "content": "We do not sell your personal information to third parties. We may share information with our service providers who help us operate our services, and when required by law."
+      },
+      "security": {
+        "title": "4. Data Security",
+        "content": "We use industry-standard security measures to protect your personal information, including SSL encryption and PCI DSS compliance for payment information."
+      },
+      "rights": {
+        "title": "5. Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information. You may also object to certain types of processing or request data portability."
+      },
+      "contact": {
+        "title": "6. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us at privacy@instapay.com"
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: October 8, 2025",
+    "intro": "Welcome to InstaPay. By using our service, you agree to these terms. Please read them carefully.",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using InstaPay, you accept and agree to be bound by these Terms of Service. If you do not agree to any part of these terms, you may not use our service."
+      },
+      "service": {
+        "title": "2. Service Description",
+        "content": "InstaPay provides a platform for creating Instagram checkout links, enabling sellers to accept payments from customers through Stories and Direct Messages."
+      },
+      "account": {
+        "title": "3. User Account",
+        "content": "You are responsible for maintaining the confidentiality of your account and password. You agree to accept responsibility for all activities that occur under your account."
+      },
+      "payments": {
+        "title": "4. Payments and Refunds",
+        "content": "Payments are processed through our acquirer partners. Refund policies are set by you as the seller for your customers. InstaPay is not responsible for transaction disputes."
+      },
+      "prohibited": {
+        "title": "5. Prohibited Use",
+        "content": "You agree not to use InstaPay for any illegal activities, fraud, or sale of prohibited items. We reserve the right to suspend or terminate accounts that violate these terms."
+      },
+      "liability": {
+        "title": "6. Limitation of Liability",
+        "content": "InstaPay is provided 'as is'. We are not liable for any indirect, incidental, or consequential damages arising from your use of our service."
+      },
+      "changes": {
+        "title": "7. Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on this page."
+      },
+      "contact": {
+        "title": "8. Contact Information",
+        "content": "If you have any questions about these Terms of Service, please contact us at legal@instapay.com"
+      }
+    }
+  }
+}
